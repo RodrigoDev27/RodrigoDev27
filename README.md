@@ -57,6 +57,9 @@
    <a href="https://beacons.ai/https://portfolio-devsilva.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
+   <a href="https://beacons.ai/https://portfolio-devsilva.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="linktree logo"  />
+  </a>
 </div>
 
 
