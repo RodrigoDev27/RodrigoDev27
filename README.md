@@ -47,12 +47,16 @@
 <div align="center">
  <h3>Meus contatos</h3>
 
- <div align="left">
+
   <a href="https://www.linkedin.com/in/linkedin.com/in/rodrigo-silva-413a87272" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
    <a href="https://api.whatsapp.com/send?phone=5532991121261" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+    </a>
+   <a href="https://img.shields.io/badge/rodrigosilva77rdr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
