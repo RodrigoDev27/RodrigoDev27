@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudo Typescript
+- 🌱 Estudo Python
 
 
 
