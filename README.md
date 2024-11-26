@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Rodrigo 🖐️
 
-
+- 💻 Desenvolvedor Full stack
 - 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudo Python
+  
 
 
 
