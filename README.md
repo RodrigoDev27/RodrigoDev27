@@ -24,7 +24,7 @@
 ##
 
   <p>
-  <a href="https://github.com/wolwerr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Front-End&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
+  <a href="https://github.com/wolwerr"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-stack&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
 </p>
 
 ##
